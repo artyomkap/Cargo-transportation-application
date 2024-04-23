@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+b3e67442e3b0a1e6cd39e0689144ef67 CMakeFiles/SDI-Assignment-GUI-Design_autogen

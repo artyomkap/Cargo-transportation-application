@@ -1,0 +1,4 @@
+/home/ntu-user/eclipse-workspace/SDI-assessment/build-SDI-Assignment-GUI-Design-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/ntu-user/eclipse-workspace/SDI-assessment/build-SDI-Assignment-GUI-Design-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/ntu-user/eclipse-workspace/SDI-assessment/build-SDI-Assignment-GUI-Design-Desktop-Debug/CMakeFiles/SDI-Assignment-GUI-Design.dir
+/home/ntu-user/eclipse-workspace/SDI-assessment/build-SDI-Assignment-GUI-Design-Desktop-Debug/CMakeFiles/SDI-Assignment-GUI-Design_autogen.dir

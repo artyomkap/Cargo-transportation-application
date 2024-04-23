@@ -1,0 +1,226 @@
+{
+	"BUILD_DIR" : "/home/ntu-user/eclipse-workspace/SDI-assessment/build-SDI-Assignment-GUI-Design-Desktop-Debug/SDI-Assignment-GUI-Design_autogen",
+	"CMAKE_BINARY_DIR" : "/home/ntu-user/eclipse-workspace/SDI-assessment/build-SDI-Assignment-GUI-Design-Desktop-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/ntu-user/eclipse-workspace/SDI-assessment/build-SDI-Assignment-GUI-Design-Desktop-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design",
+	"HEADERS" : 
+	[
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/cargo_registration.h",
+			"MU",
+			"EWIEGA46WW/moc_cargo_registration.cpp"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/chat_window.h",
+			"MU",
+			"EWIEGA46WW/moc_chat_window.cpp"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/company_cargosettings.h",
+			"MU",
+			"EWIEGA46WW/moc_company_cargosettings.cpp"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/company_interface.h",
+			"MU",
+			"EWIEGA46WW/moc_company_interface.cpp"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/company_registration.h",
+			"MU",
+			"EWIEGA46WW/moc_company_registration.cpp"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/driver_acceptedcargos.h",
+			"MU",
+			"EWIEGA46WW/moc_driver_acceptedcargos.cpp"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/driver_cargosubmission.h",
+			"MU",
+			"EWIEGA46WW/moc_driver_cargosubmission.cpp"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/driver_interface.h",
+			"MU",
+			"EWIEGA46WW/moc_driver_interface.cpp"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/driver_lorryregistration.h",
+			"MU",
+			"EWIEGA46WW/moc_driver_lorryregistration.cpp"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/driver_profile.h",
+			"MU",
+			"EWIEGA46WW/moc_driver_profile.cpp"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/driver_registration.h",
+			"MU",
+			"EWIEGA46WW/moc_driver_registration.cpp"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/modify_lorry.h",
+			"MU",
+			"EWIEGA46WW/moc_modify_lorry.cpp"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/owner_interface.h",
+			"MU",
+			"EWIEGA46WW/moc_owner_interface.cpp"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/owner_orderhistory.h",
+			"MU",
+			"EWIEGA46WW/moc_owner_orderhistory.cpp"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/owner_placecargo.h",
+			"MU",
+			"EWIEGA46WW/moc_owner_placecargo.cpp"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/owner_profile.h",
+			"MU",
+			"EWIEGA46WW/moc_owner_profile.cpp"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/welcomewindow.h",
+			"MU",
+			"EWIEGA46WW/moc_welcomewindow.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/ntu-user/eclipse-workspace/SDI-assessment/build-SDI-Assignment-GUI-Design-Desktop-Debug/SDI-Assignment-GUI-Design_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/ntu-user/eclipse-workspace/SDI-assessment/build-SDI-Assignment-GUI-Design-Desktop-Debug/SDI-Assignment-GUI-Design_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_SQL_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/ntu-user/eclipse-workspace/SDI-assessment/build-SDI-Assignment-GUI-Design-Desktop-Debug",
+		"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtSql",
+		"/usr/include/c++/9",
+		"/usr/include/x86_64-linux-gnu/c++/9",
+		"/usr/include/c++/9/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/9/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/bin/g++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/ntu-user/eclipse-workspace/SDI-assessment/build-SDI-Assignment-GUI-Design-Desktop-Debug/SDI-Assignment-GUI-Design_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/ntu-user/eclipse-workspace/SDI-assessment/build-SDI-Assignment-GUI-Design-Desktop-Debug/CMakeFiles/SDI-Assignment-GUI-Design_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib/qt5/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"SETTINGS_FILE" : "/home/ntu-user/eclipse-workspace/SDI-assessment/build-SDI-Assignment-GUI-Design-Desktop-Debug/CMakeFiles/SDI-Assignment-GUI-Design_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/cargo_registration.cpp",
+			"MU"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/chat_window.cpp",
+			"MU"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/company_cargosettings.cpp",
+			"MU"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/company_interface.cpp",
+			"MU"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/company_registration.cpp",
+			"MU"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/driver_acceptedcargos.cpp",
+			"MU"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/driver_cargosubmission.cpp",
+			"MU"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/driver_interface.cpp",
+			"MU"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/driver_lorryregistration.cpp",
+			"MU"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/driver_profile.cpp",
+			"MU"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/driver_registration.cpp",
+			"MU"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/main.cpp",
+			"MU"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/modify_lorry.cpp",
+			"MU"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/owner_interface.cpp",
+			"MU"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/owner_orderhistory.cpp",
+			"MU"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/owner_placecargo.cpp",
+			"MU"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/owner_profile.cpp",
+			"MU"
+		],
+		[
+			"/home/ntu-user/eclipse-workspace/SDI-assessment/SDI-Assignment-GUI-Design/welcomewindow.cpp",
+			"MU"
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
